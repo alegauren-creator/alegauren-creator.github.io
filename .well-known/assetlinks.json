@@ -1,16 +1,21 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.ageasyapps.spiegamelo",
       "sha256_cert_fingerprints": [
-        "3C:32:8A:09:FB:0F:F6:D4:E3:5F:8A:27:93:E0:ED:65:D6:DE:03:5F:26:8F:C6:6C:89:24:6A:C4:03:9B:39:41"
+        "3C:32:8A:09:FB:0F:F6:D4:E3:5F:8A:27:93:E0:ED:65:D6:DE:03:5F:26:8F:C6:6C:89:24:6A:C4:03:9B:39:41",
+        "B7:A1:94:4E:26:C3:96:79:36:89:F1:04:F3:8D:23:6D:93:8A:95:D6:5A:7C:91:58:27:C9:9A:07:93:9A:77:22"
       ]
     }
   },
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.alegauren_creator.spiegamelo",

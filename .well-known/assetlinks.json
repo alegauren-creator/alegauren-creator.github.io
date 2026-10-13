@@ -32,7 +32,8 @@
       "namespace": "android_app",
       "package_name": "com.ageasyapps.animaquieta",
       "sha256_cert_fingerprints": [
-        "3C:32:8A:09:FB:0F:F6:D4:E3:5F:8A:27:93:E0:ED:65:D6:DE:03:5F:26:8F:C6:6C:89:24:6A:C4:03:9B:39:41"
+        "3C:32:8A:09:FB:0F:F6:D4:E3:5F:8A:27:93:E0:ED:65:D6:DE:03:5F:26:8F:C6:6C:89:24:6A:C4:03:9B:39:41",
+        "FC:56:B6:5E:EA:05:B5:BC:99:D3:70:B0:0E:B1:D9:86:F9:9B:B6:73:A9:B8:D6:32:65:E8:8B:10:9F:E4:6F:3B"
       ]
     }
   }

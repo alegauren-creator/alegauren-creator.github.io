@@ -23,5 +23,17 @@
         "3C:32:8A:09:FB:0F:F6:D4:E3:5F:8A:27:93:E0:ED:65:D6:DE:03:5F:26:8F:C6:6C:89:24:6A:C4:03:9B:39:41"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ageasyapps.animaquieta",
+      "sha256_cert_fingerprints": [
+        "3C:32:8A:09:FB:0F:F6:D4:E3:5F:8A:27:93:E0:ED:65:D6:DE:03:5F:26:8F:C6:6C:89:24:6A:C4:03:9B:39:41"
+      ]
+    }
   }
 ]
